@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dadpig (Tairone)
+- 👀 I’m interested initially on free repo for my labs, but last not least also make some friends and collaborate with projects that impact daily lifes.
+- 🌱 I’m currently studing Java, Kotlin, Go, Solidity and some cloud stack for native image block.
+- 📫 You can reach me by email tairone at google.com
